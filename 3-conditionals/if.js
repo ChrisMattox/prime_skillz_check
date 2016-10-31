@@ -3,7 +3,7 @@
 // the two variables are equal
 var first = 3;
 var second = 5;
-
+ 
 if (first == second) {
   console.log("Hello");
 }
